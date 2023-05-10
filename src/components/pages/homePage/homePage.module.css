@@ -1,0 +1,41 @@
+.container {
+  margin: 60px 20px;
+  display: flex;
+  color: #1618a3;
+  justify-content: space-around;
+}
+
+.logo {
+  color: #1618a3;
+  text-decoration: underline;
+  margin-bottom: 50px;
+}
+
+.heading {
+  max-width: 608px;
+  margin-bottom: 100px;
+  
+}
+
+summary {
+  cursor: pointer;
+  list-style: none;
+  padding-bottom: 20px;
+  width: fit-content;
+  outline: none;
+}
+
+details {
+  margin-bottom: 32px;
+}
+
+li {
+  padding-bottom: 10px;
+}
+
+.Blue {
+  margin-left: -100px;
+  height: 800px;
+  z-index: -1;
+}
+

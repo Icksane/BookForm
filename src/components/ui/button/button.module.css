@@ -1,0 +1,39 @@
+.button {
+  font-size: 25px;
+  font-weight: 600;
+  padding: 20px 50px;
+  border-radius: 40px;
+}
+
+.buttonCtv {
+  background-color: #1618a3;
+  color: white;
+  border: 1px solid #1618a3;
+}
+
+.buttonCtv:hover {
+  background-color: white;
+  color: #1618a3;
+  opacity: 1;
+}
+
+.buttonReset {
+  background-color: white;
+  color: #1618a3;
+  border: 1px solid #1618a3;
+}
+
+.buttonSubmit {
+  background-color: #1618a3;
+  color: white;
+  border: 1px solid #1618a3;
+}
+
+.closeButton {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  font-size: 24px;
+  color: #557eff;
+  border: none;
+}
